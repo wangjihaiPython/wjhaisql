@@ -7,4 +7,3 @@ class GenderException(Exception):
 
 a=GenderException('abc')
 print(a)
-print("this is pei write python code")
